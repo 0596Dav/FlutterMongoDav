@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6233eadc706a524d5961e098"
+  },
+  "nombre": "Gerardo Fabio",
+  "apellido": "Gutierrez",
+  "genero": "masculino",
+  "edad": "21",
+  "estrato": "3"
+},{
+  "_id": {
+    "$oid": "6233eadc706a524d5961e099"
+  },
+  "nombre": "Monica",
+  "apellido": "Reyes Rivera",
+  "genero": "femenino",
+  "edad": "34",
+  "estrato": "2"
+},{
+  "_id": {
+    "$oid": "6233eadc706a524d5961e09a"
+  },
+  "nombre": "Ana Catalina",
+  "apellido": "Vanegas",
+  "genero": "femenino",
+  "edad": "40",
+  "estrato": "1"
+}]

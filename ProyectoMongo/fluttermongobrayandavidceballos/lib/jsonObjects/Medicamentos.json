@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233ec8a706a524d5961e0a4"
+  },
+  "descripcion": "Antiinflamatorio",
+  "cantidad": "3 tb",
+  "precio": "10000"
+},{
+  "_id": {
+    "$oid": "6233ec8a706a524d5961e0a5"
+  },
+  "descripcion": "Diclofenaco",
+  "cantidad": "5 tb",
+  "precio": "25000"
+},{
+  "_id": {
+    "$oid": "6233ec8a706a524d5961e0a6"
+  },
+  "descripcion": "Meloxicam",
+  "cantidad": "2 tb",
+  "precio": "35000"
+}]

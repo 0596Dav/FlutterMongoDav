@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233eeff706a524d5961e0b6"
+  },
+  "descripcion": "Blanqueamiento dental",
+  "precio": "250000",
+  "duracion": "5 meses"
+},{
+  "_id": {
+    "$oid": "6233eeff706a524d5961e0b7"
+  },
+  "descripcion": "Implantes dentales",
+  "precio": "150000",
+  "duracion": "3 meses"
+},{
+  "_id": {
+    "$oid": "6233eeff706a524d5961e0b8"
+  },
+  "descripcion": "Tratamiento Peridontal",
+  "precio": "170000",
+  "duracion": "1 año"
+}]

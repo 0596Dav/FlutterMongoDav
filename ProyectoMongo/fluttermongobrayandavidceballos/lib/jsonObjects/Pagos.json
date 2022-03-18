@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6233ee38706a524d5961e0b0"
+  },
+  "cliente": "Sara Reyes",
+  "fecha": "23/03/2022",
+  "valor": "250000",
+  "medio": "Pse"
+},{
+  "_id": {
+    "$oid": "6233ee38706a524d5961e0b1"
+  },
+  "cliente": "David Ceballos",
+  "fecha": "03/05/2022",
+  "valor": "150000",
+  "medio": "Efectivo"
+},{
+  "_id": {
+    "$oid": "6233ee38706a524d5961e0b2"
+  },
+  "cliente": "Tatiana Beltran",
+  "fecha": "13/04/2022",
+  "valor": "170000",
+  "medio": "Tarjeta de Credito"
+}]

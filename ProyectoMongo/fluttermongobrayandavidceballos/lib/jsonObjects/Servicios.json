@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233ebaf706a524d5961e09e"
+  },
+  "descripcion": "limpieza dental",
+  "horario": "lunes-viernes",
+  "precio": "150000"
+},{
+  "_id": {
+    "$oid": "6233ebaf706a524d5961e09f"
+  },
+  "descripcion": "diseño de sonrisa",
+  "horario": "martes-miercoles",
+  "precio": "100000"
+},{
+  "_id": {
+    "$oid": "6233ebaf706a524d5961e0a0"
+  },
+  "descripcion": "ortodoncia",
+  "horario": "jueves-viernes",
+  "precio": "120000"
+}]
